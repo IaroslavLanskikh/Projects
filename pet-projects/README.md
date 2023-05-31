@@ -26,4 +26,5 @@
 - Tableau Public
 
 ## **Тетрадка**
-  
+  html
+<iframe src="https://nbviewer.org/github/IaroslavLanskikh/Projects/blob/main/pet-projects/parcing%20%282%29.ipynb" width="100%" height="600"></iframe>
