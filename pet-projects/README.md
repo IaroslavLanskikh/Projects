@@ -27,3 +27,4 @@
 
 ## **Тетрадка**
 - [***Ссылка на ipynb файл***](https://github.com/IaroslavLanskikh/Projects/blob/8c882221a7e35f4035b9ede234d00c48e10cd364/pet-projects/parcing%20(2).ipynb)
+- [***Если не открывается файл***](https://nbviewer.org/github/IaroslavLanskikh/Projects/blob/8c882221a7e35f4035b9ede234d00c48e10cd364/pet-projects/parcing%20%282%29.ipynb)
