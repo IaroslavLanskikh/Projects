@@ -13,7 +13,7 @@
 
 ## [***Ссылка на Tableau Public***](https://public.tableau.com/app/profile/yaroslav3850/viz/anime_16844404584630/Dashboard1?publish=yes)
 
-![graph](https://github.com/IaroslavLanskikh/Projects/blob/main/pet-projects/for_github.png?raw=true)
+![graph](https://github.com/IaroslavLanskikh/Projects/blob/main/pet-projects/tableau_screen.png)
 
 ## **Инструменты:**
 - Python
