@@ -8,9 +8,9 @@ chat_id = 492659501  # Находим по https://api.telegram.org/bot{token}/g
 bot_id = 6393402102  # Находим по https://api.telegram.org/bot{token}/getMe
 
 # Токен для подключения
-token = os.environ.get('PET_HH_TG_TOKEN')
+from env import tg_bot_token
+token = tg_bot_token()
 
-print(token)
 def send_message(chat_id,token,text):
     # Отправка сообщения:
     # text - текст сообщения
