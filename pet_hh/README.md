@@ -16,7 +16,9 @@
 
 Поставил на ежедневное обновление используя планировщик задач Windows.
 
-![graph](https://github.com/IaroslavLanskikh/Projects/blob/main/pet_hh/boss.png)
+<img src="https://github.com/IaroslavLanskikh/Projects/blob/main/pet_hh/boss.png" width="550" height="1000">
+
+<img src="https://github.com/IaroslavLanskikh/Projects/blob/main/pet_hh/tg_screen.png" width="400" height="500">
 
 ## **Инструменты:**
 - HH API
